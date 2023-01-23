@@ -7,6 +7,6 @@ public class Simple {
 		
 		A a = new A();
 		
-		a.msg();
+	//	a.msg();
 	}
 }

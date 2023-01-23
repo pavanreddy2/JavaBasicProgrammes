@@ -28,6 +28,6 @@ public class Student1 {
 		
 		A a1 = new A ();
 		
-		a1.msg();
+		//a1.msg();
 	}
 }
