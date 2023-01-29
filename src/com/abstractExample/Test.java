@@ -4,6 +4,10 @@ public class Test {
 
 	String s = "pavan";
 	
+	void m1(int ... q) {
+		
+	}
+	
 	public static void main(String[] args) {
 		
 		//A a = new A();  // error
